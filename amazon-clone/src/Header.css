@@ -36,22 +36,26 @@
 }
 
 .header_optionLineOne {
-    font-size: 10px
+    font-size: 12px;
+    text-align: left;
 }
 
 .header_optionLineTwo {
     font-size: 14px;
-    font-weight: 800;
+    font-weight: 700;
+    text-align: left;
 }
 
 .header_optionBasket {
     display: flex;
+    margin-left: 5px;
+    margin-top: 5px;
     align-items: center;
     color: white;
 }
 
 .header_basketCount {
-    margin-left: 10px;
+    margin-left: 3px;
     margin-right: 10px;
 }
 
